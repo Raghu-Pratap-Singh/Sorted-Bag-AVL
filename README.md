@@ -3,7 +3,7 @@
 [![PyPI version](https://img.shields.io/pypi/v/sorted-bag-avl.svg)](https://pypi.org/project/sorted-bag-avl/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A high-performance, self-balancing **Sorted Bag** (multiset) implemented using an **AVL Tree**. This package provides $O(\log (u)$ efficiency for insertions, deletions, and lookups, and order statistics while maintaining elements in sorted order.
+A high-performance, self-balancing **Sorted Bag** (multiset) implemented using an **AVL Tree**. This package provides $O(\log (u))$ efficiency for insertions, deletions, and lookups, and order statistics while maintaining elements in sorted order.
 
 ## Features
 - **Self-Balancing**: Uses AVL tree logic to ensure the tree height is always logarithmic.
