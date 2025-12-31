@@ -12,10 +12,10 @@ A high-performance, self-balancing **Sorted Bag** (multiset) implemented using a
 - **Duplicate Support**: Handles multiple instances of the same value.
 
 
-##FUNCTIONS AVAILABLE
+## FUNCTIONS AVAILABLE
 
--**Standard Python Functions** : print, max, min, indexing, membership check(x in S).
--**Order Statistics (O(log N))**: S.kth(rank), S.lower_bound(x), S.upper_bound(x), S.lesser_than(x), S.greater_than(x), S.range_count(x).
+- **Standard Python Functions**: print, max, min, indexing, membership check(x in S).
+- **Order Statistics (O(log N))**: S.kth(rank), S.lower_bound(x), S.upper_bound(x), S.lesser_than(x), S.greater_than(x), S.range_count(x).
 
 
 ## Installation
