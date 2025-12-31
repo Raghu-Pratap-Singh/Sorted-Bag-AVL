@@ -11,9 +11,17 @@ A high-performance, self-balancing **Sorted Bag** (multiset) implemented using a
 - **Range Queries**: Efficiently count or retrieve elements within a specific range.
 - **Duplicate Support**: Handles multiple instances of the same value.
 
+
+##FUNCTIONS AVAILABLE
+
+-**Standard Python Functions** : print, max, min, indexing, membership check(x in S)
+-**Order Statistics (O(log N))**: S.kth(rank), S.lower_bound(x), S.upper_bound(x), S.lesser_than(x), S.greater_than(x), S.range_count(x)
+
+
 ## Installation
 
 Install the package via pip:
 
 ```bash
 pip install sorted-bag-avl
+
