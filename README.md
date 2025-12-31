@@ -30,3 +30,9 @@ Install the package via pip:
 ```bash
 pip install sorted-bag-avl
 
+```
+# The package name is sorted-bag-avl, but the module name is sorted_bag
+from sorted_bag import sorted_bag
+
+# Initialize your bag
+S = sorted_bag()
